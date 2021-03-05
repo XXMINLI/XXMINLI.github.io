@@ -1,4 +1,4 @@
-# XXMINLI.github.io
+# xximin.github.io
 
 this is my first web site.
 
